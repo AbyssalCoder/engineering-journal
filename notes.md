@@ -36,3 +36,20 @@ with open('output.txt', 'r') as f:
 ```
 
 Always use `with` statements — they handle closing automatically.
+
+## Aider — AI Pair Programming in Terminal
+
+### Setup
+```bash
+pip install aider-chat
+aider
+```
+
+### Features
+- Works with GPT-4, Claude, local models
+- Auto-commits changes with good messages
+- `/add` files to context
+- `/diff` to see pending changes
+- Understands git history
+
+Good for iterative development — it keeps track of conversation context.
