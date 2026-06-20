@@ -17,3 +17,9 @@
 | Reliability  | Guaranteed   | Best effort  |
 | Speed        | Slower       | Faster       |
 | Ordering     | Yes          | No           |
+
+## 2026-06-20
+
+Revisited DNS Resolution and took better notes.
+
+Connecting this to what I learned last week about related concepts.
