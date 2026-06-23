@@ -19,3 +19,10 @@
 - Docker docs: https://docs.docker.com/
 - GeeksforGeeks: https://www.geeksforgeeks.org/
 - Python docs: https://docs.python.org/3/
+
+## Resources — 2026-06-23
+
+### Useful links for Reverse Number
+
+- MDN Web Docs: https://developer.mozilla.org/
+- Python docs: https://docs.python.org/3/
