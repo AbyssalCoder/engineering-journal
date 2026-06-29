@@ -29,3 +29,9 @@ Connecting this to what I learned last week about related concepts.
 Went through Selection Sort concepts and examples.
 
 Still need to work on the implementation details.
+
+## 2026-06-29
+
+Went through Windsurf concepts and examples.
+
+Connecting this to what I learned last week about related concepts.
