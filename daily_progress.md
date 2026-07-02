@@ -35,3 +35,9 @@ Output:
 * * * * 
 * * * * * 
 ```
+
+## 2026-07-02
+
+Deep dive into Subnetting Basics.
+
+Going to revisit this topic next week for deeper understanding.
