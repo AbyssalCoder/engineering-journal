@@ -18,3 +18,10 @@ Topics covered today:
 - Nginx Basics
 - Selection Sort
 - Docker Networking
+
+
+## Update — 2026-07-08
+
+Topics covered today:
+- Factorial
+- Docker Compose
