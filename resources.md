@@ -26,3 +26,12 @@
 
 - MDN Web Docs: https://developer.mozilla.org/
 - Python docs: https://docs.python.org/3/
+
+## Resources — 2026-07-08
+
+### Useful links for Network Monitoring
+
+- Nginx docs: https://nginx.org/en/docs/
+- Docker docs: https://docs.docker.com/
+- GeeksforGeeks: https://www.geeksforgeeks.org/
+- Real Python: https://realpython.com/
