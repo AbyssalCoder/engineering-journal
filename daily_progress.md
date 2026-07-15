@@ -59,3 +59,9 @@ print(freq)  # {'the': 3, 'cat': 2, 'sat': 1, 'on': 1, 'mat': 1}
 from collections import Counter
 print(Counter(text.split()))
 ```
+
+## 2026-07-15
+
+Went through Dictionary Practice concepts and examples.
+
+Connecting this to what I learned last week about related concepts.
