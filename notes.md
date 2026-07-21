@@ -130,3 +130,6 @@ print(binary_search(sorted_arr, 7))  # 3
 ```
 
 Requires sorted input. Time complexity: O(log n).
+
+
+<!-- updated examples -->
