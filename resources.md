@@ -43,3 +43,10 @@
 - freeCodeCamp: https://www.freecodecamp.org/
 - Real Python: https://realpython.com/
 - Docker docs: https://docs.docker.com/
+
+## Resources — 2026-07-23
+
+### Useful links for Linux Commands
+
+- Real Python: https://realpython.com/
+- Nginx docs: https://nginx.org/en/docs/
