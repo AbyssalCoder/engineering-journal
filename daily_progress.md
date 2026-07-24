@@ -83,4 +83,8 @@ print(selection_sort([29, 10, 14, 37, 13]))
 
 Always O(n²) — not adaptive, but minimal swaps (n-1 at most).
 
+## 2026-07-24
 
+Continued learning about Load Balancers.
+
+This will be useful for the upcoming project.
