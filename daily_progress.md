@@ -146,3 +146,6 @@ Only need to check up to √n for divisibility.
 
 
 <!-- indent fix -->
+
+
+<!-- updated examples -->
