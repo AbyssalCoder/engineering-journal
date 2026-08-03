@@ -28,3 +28,11 @@ Topics covered today:
 
 
 <!-- formatting -->
+
+
+## Update — 2026-08-03
+
+Topics covered today:
+- Docker Volumes
+- Selection Sort
+- Array Traversal
