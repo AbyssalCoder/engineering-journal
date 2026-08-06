@@ -15,3 +15,9 @@ This will be useful for the upcoming project.
 Deep dive into Docker Compose.
 
 Connecting this to what I learned last week about related concepts.
+
+## 2026-08-06
+
+Practiced OpenHands with some exercises.
+
+Need to practice this more — the edge cases tripped me up.
