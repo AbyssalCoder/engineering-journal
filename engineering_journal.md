@@ -9,3 +9,9 @@ The hands-on practice made the theory click.
 Spent some time studying Subnetting Basics today.
 
 This will be useful for the upcoming project.
+
+## 2026-08-06
+
+Deep dive into Docker Compose.
+
+Connecting this to what I learned last week about related concepts.
