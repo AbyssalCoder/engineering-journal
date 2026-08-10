@@ -103,3 +103,18 @@ print(freq)  # {'the': 3, 'cat': 2, 'sat': 1, 'on': 1, 'mat': 1}
 from collections import Counter
 print(Counter(text.split()))
 ```
+
+## Reverse a Number
+
+```python
+def reverse_number(n):
+    reversed_n = 0
+    while n > 0:
+        reversed_n = reversed_n * 10 + n % 10
+        n //= 10
+    return reversed_n
+
+print(reverse_number(12345))  # 54321
+```
+
+This uses modulus and integer division — no string conversion needed.
