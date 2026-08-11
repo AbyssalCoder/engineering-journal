@@ -44,3 +44,6 @@ Topics covered today:
 - UDP
 - Bubble Sort
 - Palindrome
+
+
+<!-- formatting -->
