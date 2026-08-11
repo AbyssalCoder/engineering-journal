@@ -237,3 +237,6 @@ docker run --network mynet --name app2 alpine ping app1
 ```
 
 Containers on the same user-defined bridge can resolve each other by name.
+
+
+<!-- updated examples -->
