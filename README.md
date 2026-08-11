@@ -36,3 +36,11 @@ Topics covered today:
 - Docker Volumes
 - Selection Sort
 - Array Traversal
+
+
+## Update — 2026-08-11
+
+Topics covered today:
+- UDP
+- Bubble Sort
+- Palindrome
