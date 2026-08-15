@@ -281,3 +281,4 @@ HTTPS = HTTP + TLS encryption.
 - Required for modern web features (service workers, geolocation)
 
 
+<!-- updated examples -->
