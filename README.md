@@ -47,3 +47,12 @@ Topics covered today:
 
 
 <!-- formatting -->
+
+
+## Update — 2026-08-15
+
+Topics covered today:
+- Linear Search
+- TCP Handshake
+- VLAN Basics
+- Python OOP Basics
