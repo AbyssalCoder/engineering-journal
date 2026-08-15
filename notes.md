@@ -279,3 +279,5 @@ HTTPS = HTTP + TLS encryption.
 - Authenticates the server via certificates
 - Prevents man-in-the-middle attacks
 - Required for modern web features (service workers, geolocation)
+
+
