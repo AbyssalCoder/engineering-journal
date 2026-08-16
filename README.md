@@ -56,3 +56,12 @@ Topics covered today:
 - TCP Handshake
 - VLAN Basics
 - Python OOP Basics
+
+
+## Update — 2026-08-16
+
+Topics covered today:
+- Subnetting Basics
+- Selection Sort
+- Docker Images
+- Python OOP Basics
