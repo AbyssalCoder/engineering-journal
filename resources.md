@@ -50,3 +50,12 @@
 
 - Real Python: https://realpython.com/
 - Nginx docs: https://nginx.org/en/docs/
+
+## Resources — 2026-08-27
+
+### Useful links for Bubble Sort
+
+- MDN Web Docs: https://developer.mozilla.org/
+- Nginx docs: https://nginx.org/en/docs/
+- Docker docs: https://docs.docker.com/
+- Git documentation: https://git-scm.com/doc
