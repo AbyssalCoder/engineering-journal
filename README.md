@@ -65,3 +65,12 @@ Topics covered today:
 - Selection Sort
 - Docker Images
 - Python OOP Basics
+
+
+## Update — 2026-08-28
+
+Topics covered today:
+- Armstrong Number
+- JWT Authentication
+- VLAN Basics
+- String Questions
