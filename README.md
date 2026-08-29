@@ -74,3 +74,12 @@ Topics covered today:
 - JWT Authentication
 - VLAN Basics
 - String Questions
+
+
+## Update — 2026-08-29
+
+Topics covered today:
+- Network Monitoring
+- List Comprehensions
+- Reverse Proxies
+- Load Balancers
