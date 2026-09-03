@@ -83,3 +83,12 @@ Topics covered today:
 - List Comprehensions
 - Reverse Proxies
 - Load Balancers
+
+
+## Update — 2026-09-03
+
+Topics covered today:
+- Prime Number
+- Array Traversal
+- Git Branching
+- Palindrome
