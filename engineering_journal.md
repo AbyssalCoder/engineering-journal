@@ -21,3 +21,9 @@ Connecting this to what I learned last week about related concepts.
 Practiced OpenHands with some exercises.
 
 Need to practice this more — the edge cases tripped me up.
+
+## 2026-09-05
+
+Today I focused on TCP Handshake.
+
+Need to practice this more — the edge cases tripped me up.
