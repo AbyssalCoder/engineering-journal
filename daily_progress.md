@@ -166,3 +166,9 @@ def count_vc(s):
 
 print(count_vc('Hello World'))  # (3, 7)
 ```
+
+## 2026-09-06
+
+Practiced Array Traversal with some exercises.
+
+The comparison between approaches was really helpful.
