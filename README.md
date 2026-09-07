@@ -92,3 +92,11 @@ Topics covered today:
 - Array Traversal
 - Git Branching
 - Palindrome
+
+
+## Update — 2026-09-07
+
+Topics covered today:
+- Docker Compose
+- Python OOP Basics
+- Pattern Printing
