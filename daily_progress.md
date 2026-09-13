@@ -172,3 +172,9 @@ print(count_vc('Hello World'))  # (3, 7)
 Practiced Array Traversal with some exercises.
 
 The comparison between approaches was really helpful.
+
+## 2026-09-13
+
+Deep dive into Bolt.new.
+
+The comparison between approaches was really helpful.
