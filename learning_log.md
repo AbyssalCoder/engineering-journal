@@ -35,3 +35,25 @@ Still need to work on the implementation details.
 Went through Windsurf concepts and examples.
 
 Connecting this to what I learned last week about related concepts.
+
+## Network Monitoring Commands
+
+```bash
+# Check connectivity
+ping google.com
+
+# Trace route to host
+traceroute google.com   # Linux
+tracert google.com      # Windows
+
+# View active connections
+netstat -tuln
+ss -tuln                # modern alternative
+
+# DNS lookup
+nslookup example.com
+dig example.com
+
+# Capture packets
+tcpdump -i eth0 port 80
+```
