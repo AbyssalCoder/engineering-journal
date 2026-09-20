@@ -65,3 +65,6 @@ VLAN tagging uses IEEE 802.1Q standard.
 - **Cache-aside** — app manages cache explicitly
 
 > "There are only two hard things in CS: cache invalidation and naming things."
+
+
+<!-- formatting -->
