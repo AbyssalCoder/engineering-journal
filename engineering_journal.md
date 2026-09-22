@@ -27,3 +27,9 @@ Need to practice this more — the edge cases tripped me up.
 Today I focused on TCP Handshake.
 
 Need to practice this more — the edge cases tripped me up.
+
+## 2026-09-22
+
+Quick session on OpenCommit today.
+
+The hands-on practice made the theory click.
