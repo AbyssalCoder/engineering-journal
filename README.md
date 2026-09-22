@@ -100,3 +100,10 @@ Topics covered today:
 - Docker Compose
 - Python OOP Basics
 - Pattern Printing
+
+
+## Update — 2026-09-22
+
+Topics covered today:
+- Load Balancers
+- Armstrong Number
