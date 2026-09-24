@@ -75,3 +75,20 @@ git rebase main
 | Safe for shared branch | Only for local branches |
 
 **Golden rule:** Never rebase commits that have been pushed to a shared branch.
+
+## Subnetting Basics
+
+### CIDR notation
+- `192.168.1.0/24` → 256 addresses, 254 usable hosts
+- `10.0.0.0/8` → Class A, ~16 million hosts
+
+### Quick subnet math
+| CIDR | Subnet Mask     | Hosts |
+|------|-----------------|-------|
+| /24  | 255.255.255.0   | 254   |
+| /25  | 255.255.255.128 | 126   |
+| /26  | 255.255.255.192 | 62    |
+| /27  | 255.255.255.224 | 30    |
+| /28  | 255.255.255.240 | 14    |
+
+Usable hosts = 2^(32 - prefix) - 2
