@@ -115,3 +115,6 @@ DNS translates domain names to IP addresses.
 nslookup example.com
 dig example.com A
 ```
+
+
+<!-- updated examples -->
