@@ -62,3 +62,10 @@
 
 
 <!-- indent fix -->
+
+## Resources — 2026-09-26
+
+### Useful links for List Comprehensions
+
+- freeCodeCamp: https://www.freecodecamp.org/
+- Python docs: https://docs.python.org/3/
