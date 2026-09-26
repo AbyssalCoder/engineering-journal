@@ -33,3 +33,9 @@ Need to practice this more — the edge cases tripped me up.
 Quick session on OpenCommit today.
 
 The hands-on practice made the theory click.
+
+## 2026-09-26
+
+Explored Palindrome — here are my notes.
+
+Found a good resource that explained this clearly.
