@@ -39,3 +39,6 @@ The hands-on practice made the theory click.
 Explored Palindrome — here are my notes.
 
 Found a good resource that explained this clearly.
+
+
+<!-- formatting -->
