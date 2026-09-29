@@ -386,3 +386,20 @@ String methods return new strings — strings are immutable in Python.
 - Cascade is more autonomous than Cursor's Composer
 - Windsurf feels more guided, Cursor more manual
 - Both are VS Code forks
+
+## Aider — AI Pair Programming in Terminal
+
+### Setup
+```bash
+pip install aider-chat
+aider
+```
+
+### Features
+- Works with GPT-4, Claude, local models
+- Auto-commits changes with good messages
+- `/add` files to context
+- `/diff` to see pending changes
+- Understands git history
+
+Good for iterative development — it keeps track of conversation context.
