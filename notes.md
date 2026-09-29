@@ -403,3 +403,20 @@ aider
 - Understands git history
 
 Good for iterative development — it keeps track of conversation context.
+
+## Number Pyramid Pattern
+
+```python
+n = 5
+for i in range(1, n + 1):
+    print(' ' * (n - i) + ' '.join(str(j) for j in range(1, i + 1)))
+```
+
+Output:
+```
+    1
+   1 2
+  1 2 3
+ 1 2 3 4
+1 2 3 4 5
+```
