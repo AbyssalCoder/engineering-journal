@@ -72,3 +72,12 @@
 
 
 <!-- snippet correction -->
+
+## Resources — 2026-10-02
+
+### Useful links for Linear Search
+
+- Docker docs: https://docs.docker.com/
+- LeetCode: https://leetcode.com/
+- Git documentation: https://git-scm.com/doc
+- Python docs: https://docs.python.org/3/
