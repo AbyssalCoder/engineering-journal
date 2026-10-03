@@ -33,3 +33,19 @@ docker run -p 3000:3000 ghcr.io/all-hands-ai/openhands
 - Creates full projects from description
 
 It's like giving an AI its own computer to work on tasks.
+
+## Gemini CLI — Google's Terminal AI
+
+### Setup
+```bash
+npm install -g @anthropic-ai/gemini-cli  # placeholder
+gemini
+```
+
+### Features
+- Free with Google account
+- 1M token context window
+- Can read and edit local files
+- Supports extensions (Google Search, etc.)
+
+Huge context window makes it good for analyzing large codebases.
