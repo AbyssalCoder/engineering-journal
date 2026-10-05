@@ -121,3 +121,20 @@ dig example.com A
 
 
 <!-- formatting -->
+
+## JWT Authentication
+
+A JSON Web Token has three parts: `header.payload.signature`
+
+### Flow
+1. User logs in with credentials
+2. Server validates and returns a signed JWT
+3. Client stores JWT (usually in memory or httpOnly cookie)
+4. Client sends JWT in `Authorization: Bearer <token>` header
+5. Server verifies signature on each request
+
+### Security tips
+- Keep tokens short-lived (15-30 min)
+- Use refresh tokens for re-auth
+- Never store JWTs in localStorage (XSS risk)
+- Always validate `exp` and `iss` claims
