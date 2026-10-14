@@ -225,3 +225,9 @@ Worst case O(n²), best case O(n) with early exit.
 
 
 <!-- updated examples -->
+
+## 2026-10-14
+
+Went through Git Rebase concepts and examples.
+
+Need to practice this more — the edge cases tripped me up.
