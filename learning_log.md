@@ -155,3 +155,6 @@ A JSON Web Token has three parts: `header.payload.signature`
 - Use refresh tokens for re-auth
 - Never store JWTs in localStorage (XSS risk)
 - Always validate `exp` and `iss` claims
+
+
+<!-- snippet correction -->
