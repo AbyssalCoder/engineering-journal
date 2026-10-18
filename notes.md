@@ -436,3 +436,17 @@ opencode
 - Supports multiple LLM providers
 - File editing with diff preview
 - Session history
+
+## Cline — Autonomous Coding Agent for VS Code
+
+### Features
+- Creates and edits files autonomously
+- Runs terminal commands
+- Asks for approval before actions
+- Uses browser for testing
+
+### Observations
+- Very capable but can be expensive (high token usage)
+- Good at building full features end-to-end
+- Works with Claude, GPT-4, and other models
+- Human-in-the-loop design (approve/reject each action)
