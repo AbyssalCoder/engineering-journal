@@ -192,3 +192,6 @@ with open('output.txt', 'r') as f:
 ```
 
 Always use `with` statements — they handle closing automatically.
+
+
+<!-- fixed typo -->
