@@ -492,3 +492,6 @@ top                     # Process monitor
 df -h                   # Disk usage
 chmod 755 script.sh     # Set permissions
 ```
+
+
+<!-- fixed typo -->
