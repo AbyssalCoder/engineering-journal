@@ -159,4 +159,8 @@ A JSON Web Token has three parts: `header.payload.signature`
 
 <!-- snippet correction -->
 
+## 2026-11-07
 
+Practiced Factorial with some exercises.
+
+Connecting this to what I learned last week about related concepts.
