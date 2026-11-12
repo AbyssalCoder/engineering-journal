@@ -237,3 +237,9 @@ Need to practice this more — the edge cases tripped me up.
 Deep dive into String Questions.
 
 Still need to work on the implementation details.
+
+## 2026-11-12
+
+Today I focused on Docker Networking.
+
+This was surprisingly intuitive once I understood the fundamentals.
