@@ -115,3 +115,12 @@ Topics covered today:
 - Armstrong Number
 - Docker Volumes
 - Caching
+
+
+## Update — 2026-11-13
+
+Topics covered today:
+- Binary Search Basics
+- String Questions
+- Git Branching
+- Bubble Sort
