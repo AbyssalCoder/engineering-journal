@@ -528,3 +528,20 @@ Jules works asynchronously on GitHub issues and PRs.
 2. Jules analyzes the codebase
 3. Creates a PR with the fix
 4. You review and merge
+
+## Count vowels and consonants
+
+```python
+def count_vc(s):
+    vowels = set('aeiouAEIOU')
+    v = c = 0
+    for ch in s:
+        if ch.isalpha():
+            if ch in vowels:
+                v += 1
+            else:
+                c += 1
+    return v, c
+
+print(count_vc('Hello World'))  # (3, 7)
+```
