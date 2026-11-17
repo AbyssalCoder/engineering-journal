@@ -243,3 +243,9 @@ Still need to work on the implementation details.
 Today I focused on Docker Networking.
 
 This was surprisingly intuitive once I understood the fundamentals.
+
+## 2026-11-17
+
+Spent some time studying String Manipulation today.
+
+The hands-on practice made the theory click.
