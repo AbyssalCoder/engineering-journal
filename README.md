@@ -124,3 +124,12 @@ Topics covered today:
 - String Questions
 - Git Branching
 - Bubble Sort
+
+
+## Update — 2026-11-18
+
+Topics covered today:
+- Docker Compose
+- Nested Loops
+- Docker Volumes
+- Reverse Number
