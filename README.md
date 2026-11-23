@@ -133,3 +133,11 @@ Topics covered today:
 - Nested Loops
 - Docker Volumes
 - Reverse Number
+
+
+## Update — 2026-11-23
+
+Topics covered today:
+- String Manipulation
+- OSI Model
+- Linux Commands
